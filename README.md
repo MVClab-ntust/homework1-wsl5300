@@ -10,11 +10,11 @@ This is a complete machine learning project for training and testing a ResNet-18
 * wandb 0.16.6
 
 ### Run
-'''
+```
 python resnet_cifar_100.py
-'''
+```
 
 ### Training
-![GITHUB](https://lurl.cc/mCrPJ "epoch = 20" )
-###### Epoch = 20 時，Loss 的變化
-###### Accuracy: 44 %
+![image](https://github.com/mvclab-ntust-course/homework1-wsl5300/blob/main/ResNet18.png)
+###### 圖為 Epoch = 20 時，Loss 的變化趨勢
+###### Final Accuracy: 45 %
